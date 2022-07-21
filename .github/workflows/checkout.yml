@@ -8,3 +8,4 @@ jobs:
         with:
           repository: actions/checkout
           ref: v3
+      - run: ls
